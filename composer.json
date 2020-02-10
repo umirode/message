@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Umirode\\Status\\": "src/"
+      "Umirode\\Message\\": "src/"
     }
   },
   "autoload-dev": {
